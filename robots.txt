@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ibekeumu.github.io/DSW/sitemap_index.txt
+Sitemap: https://ibekeumu.github.io/JPE/sitemap_index.txt
+Sitemap: https://ibekeumu.github.io/uoW/sitemap_index.txt
+Sitemap: https://ibekeumu.github.io/yHp/sitemap_index.txt
